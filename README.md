@@ -1,3 +1,4 @@
+[![manjunath1718's GitHub | Stats](https://stats.quira.sh/manjunath1718/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=manjunath1718)
 - 👋 Hi, I’m manjunath
 - 👀 I’m interested in Creating Backend for Web Applications 
 - 🌱 I’m currently learning Java Backend Development
