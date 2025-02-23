@@ -1,6 +1,5 @@
-[![manjunath1718's GitHub | Stats](https://stats.quine.sh/manjunath1718/github?theme=dark)](https://quine.sh)
-[![manjunath1718's GitHub | Languages Over Time](https://stats.quine.sh/manjunath1718/languages-over-time?theme=light)](https://quine.sh)
-
+[![manjunath1718's GitHub | Stats](https://stats.quira.sh/manjunath1718/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=manjunath1718) 
+[![manjunath1718's GitHub | Languages Over Time](https://stats.quira.sh/manjunath1718/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=manjunath1718)
 - 👋 Hi, I’m manjunath
 - 👀 I’m interested in Creating Backend for Web Applications 
 - 🌱 I’m currently learning Java Backend Development
@@ -17,7 +16,7 @@
 
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manjunath1718&layout=compact) | ![Your Repository Stats](https://github-readme-stats.vercel.app/api?username=manjunath1718&show_icons=true&locale=en) |
 |:---:|:---:|
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunath1718&" alt="manjunath1718" /></p>
 
 
 
